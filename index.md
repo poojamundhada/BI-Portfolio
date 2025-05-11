@@ -4,7 +4,7 @@
       <img src="./image.png" alt="Pooja Mundhada Heda" width="100" style="border-radius: 10px;" />
     </td>
     <td style="vertical-align: top;">
-   ## 📊 Pooja Mundhada Heda – Data & BI Portfolio
+      <h2>📊 Pooja Mundhada Heda – Data & BI Portfolio</h2>
       💡 Certified Power BI Data Analyst | Fabric Analytics Engineer | Tableau | BI Consultant | Data Engineer  
       <br>
       🔗 <a href="https://www.linkedin.com/in/pooja-mundhada/">LinkedIn</a>
