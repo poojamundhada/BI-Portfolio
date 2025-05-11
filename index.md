@@ -1,4 +1,4 @@
-<table>
+<table style="border: none;">
   <tr>
     <td style="text-align: center; vertical-align: middle; padding-right: 15px;">
       <img src="./image.png" alt="Pooja Mundhada Heda" width="100" style="border-radius: 10px;" />
