@@ -13,7 +13,7 @@ The **landing page** acts as a centralized navigation panel, built using **butto
 - ⚡ Quick access to functional reports  
 - ⏱️ Time-saving through reduced navigation guesswork  
 
-![Landing Page](https://github.com/user-attachments/assets/9f823c28-9bf0-4656-b14b-3cf74dc8a18c)
+![Landing Page](./Images/1-landing.jpg)
 
 ---
 
@@ -28,7 +28,7 @@ This dashboard presents a **high-level snapshot** of KPIs to help business leade
 
 Users can filter data across **time, business units, departments, and lead sources**, with dynamic visuals enabling fast trend analysis.
 
-![Overview Page](https://github.com/user-attachments/assets/b523e374-931e-4bcf-8665-9cfb78a37464)
+![Overview Page](./Images/2-overview.jpg)
 
 ---
 
@@ -44,7 +44,7 @@ Designed for finance teams, this report provides visibility into:
 
 Visual tools such as **trend charts** and **sales funnels** offer deep insight into revenue generation and cost management.
 
-![Finance Page](https://github.com/user-attachments/assets/5da8816e-a38d-4e0b-a1e3-dbb0e4d719a2)
+![Finance Page](./Images/3-finanace.jpg)
 
 ---
 
@@ -58,7 +58,7 @@ This report focuses on key **business metrics**, including:
 
 It allows stakeholders to quickly identify high-performing areas and track deal progression across time.
 
-![Business Page](https://github.com/user-attachments/assets/8a09fb11-51c5-47f3-a589-b1e3e863efea)
+![Business Page](./Images/4-business.jpg)
 
 ---
 
@@ -71,4 +71,4 @@ The **KPI Dictionary** ensures data literacy and consistency across teams by off
 - Metric calculation methods  
 - Department & category tagging  
 
-![KPI Dictionary](https://github.com/user-attachments/assets/81beca0a-e41f-4e0b-aeb9-a2c81c4b645b)
+![KPI Dictionary](./Images/5-kpi.jpg)
