@@ -8,10 +8,10 @@ This Power BI reporting system offers a streamlined experience for exploring rea
 
 The **landing page** acts as a centralized navigation panel, built using **button-linked visuals**. This acts as a launchpad for various functional reports tailored to stakeholder needs.
 
-### ✅ *Benefits*:
-- 🧭 Easy-to-use interface  
-- ⚡ Quick access to functional reports  
-- ⏱️ Time-saving through reduced navigation guesswork  
+### *Benefits*:
+- Easy-to-use interface  
+- Quick access to functional reports  
+- Time-saving through reduced navigation guesswork  
 
 ![Landing Page](./Images/1-landing.jpg)
 
