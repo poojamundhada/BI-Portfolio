@@ -1,6 +1,11 @@
 # 📈 Marketing Performance – Power BI Dashboard Project
 
-This Power BI project provides actionable insights into marketing campaign effectiveness, lead generation, source performance, and ROI. It is designed to support data-driven marketing strategies and optimize channel investments.
+This Power BI dashboard is built to monitor and track all key **Digital Marketing KPIs**, with a focus on **app and web analytics**. It helps stakeholders:
+
+- ✅ Track performance across digital marketing channels  
+- ✅ Gain insights to **increase marketing effectiveness**  
+- ✅ Identify areas to optimize campaign and channel investments  
+
 
 ## 💡 Business Benefits
 
@@ -9,35 +14,26 @@ This Power BI project provides actionable insights into marketing campaign effec
 - Align marketing goals with sales outcomes  
 - Promote transparency through KPI-based evaluation
 
----
+## 📌 1. Overview Dashboard
 
-## 📌 1. Campaign Overview – High-Level Summary
-
-![Campaign Overview](./Images/Marketing%20Performance%20dashboard_page-0001.jpg)
-
-A landing page that highlights key marketing KPIs and offers intuitive navigation to detailed views. Users can quickly access campaign effectiveness, engagement metrics, and lead behavior.
+![Overview](./Images/Marketing%20Performance%20dashboard_page-0001.jpg)
 
 ---
 
-## 📊 2. Lead Funnel & Source Analysis
+## 📊 2. Channel Performance (Summary)
 
-![Lead Funnel](./Images/Marketing%20Performance%20dashboard_page-0002.jpg)
-
-Visualizes the lead journey from enquiry to conversion. Breaks down leads by source and stage, helping identify high-performing acquisition channels and bottlenecks in the funnel.
+![Channel Performance (Summary)](./Images/Marketing%20Performance%20dashboard_page-0002.jpg)
 
 ---
 
-## 📈 3. Channel Performance
+## 📈 3. Channel Performance (Details)
 
-![Channel Performance](./Images/Marketing%20Performance%20dashboard_page-0003.jpg)
-
-Provides in-depth analysis of channel-level contribution to marketing performance. It helps assess which channels are delivering the best value in terms of qualified leads and ROI.
+![Channel Performance (Details)](./Images/Marketing%20Performance%20dashboard_page-0003.jpg)
 
 ---
 
-## 💰 4. Budget Utilization & ROI
+## 💰 4. Appendix
 
-![Budget Performance](./Images/Marketing%20Performance%20dashboard_page-0004.jpg)
+![Appendix](./Images/Marketing%20Performance%20dashboard_page-0004.jpg)
 
-Compares allocated marketing budget with actual spend, campaign-level efficiency, and ROI. Ideal for marketing teams aiming to optimize spend distribution and increase conversion returns.
-
+---
