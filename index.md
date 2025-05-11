@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td style="vertical-align: top; padding-right: 15px;">
+    <td style="text-align: center; vertical-align: middle; padding-right: 15px;">
       <img src="./image.png" alt="Pooja Mundhada Heda" width="100" style="border-radius: 10px;" />
     </td>
     <td style="vertical-align: top;">
