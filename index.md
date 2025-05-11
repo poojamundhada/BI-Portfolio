@@ -1,9 +1,8 @@
 # 📊 Pooja Mundhada Heda – Data & BI Portfolio
 
-<p align="center">
-  <img src=![alt text](image.png) alt="Pooja Mundhada Heda" width="50" style="border-radius: 50%;" />
+<p align="right">
+  <img src="./image.png" alt="Pooja Mundhada Heda" width="50" style="border-radius: 50%;" />
 </p>
-
 
 💡 Certified Power BI Data Analyst | Fabric Analytics Engineer | Tableau | BI Consultant | Data Engineer
 🔗 [LinkedIn](https://www.linkedin.com/in/pooja-mundhada/)
