@@ -40,6 +40,7 @@ Outside of work, I’m a dedicated yogi, which keeps my focus sharp and creativi
 
 ### 🔹 [Marketing Performance Dashboard](./Marketing-Performance-Project/README.md)
 
+### 🔹 [Sales Performance Dashboard](./Sales-Performance-Project/README.md)
 ---
 
 📌 More dashboards and end-to-end data solutions coming soon! 🚀🚀🚀
