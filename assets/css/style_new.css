@@ -1,0 +1,71 @@
+/* Reset and Base */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f4f6f8;
+  color: #2c3e50;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+/* Banner Section (Forty-based) */
+#banner {
+  background: linear-gradient(to right, #6a11cb, #2575fc);
+  color: #ffffff;
+}
+
+#banner .inner header.major {
+  display: flex;
+  align-items: center;
+}
+
+#banner .inner header.major .profile-pic {
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 4px solid #fff;
+  margin-right: 20px;
+}
+
+#banner .inner header.major h1 {
+  font-size: 2.5rem;
+  margin: 0;
+}
+
+#banner .content p {
+  color: #ffffff;
+  font-size: 1.1rem;
+  margin-bottom: 1em;
+}
+
+.scrolly.next,
+.button.next {
+  color: #ffffff;
+  border-color: #ffffff;
+}
+
+#footer {
+  background-color: #1f1f2e; /* Dark footer */
+  color: #fff;
+  padding: 3em 2em;
+}
+
+#footer a {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+#footer h3 {
+  color: #ffffff;
+  font-weight: 600;
+  margin-bottom: 0.5em;
+}
+
+#footer .contact-method span.icon {
+  color: #ffffff;
+}
